@@ -36,4 +36,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: app
-          path: dist/Xlsx2Csv工具/**
+          path: dist/ExcelToCsv.exe  # 指定生成的 .exe 文件
